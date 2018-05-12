@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1564
     wikipedia: http://en.wikipedia.org/wiki/A._E._W._Mason
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16381#The-Summons
 gutenberg_bookshelf: Contemporary Reviews
 gutenberg_issued: '2005-07-28'
 gutenberg_type: Text
